@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/iserver-all-8.1.1-14511.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/org.restlet.lib.org.json-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/rest-sdk-8.1.1-14511.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/server-host-model-8.1.1-14511.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/service-model-8.1.1-14511.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/shiro-core-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/server-hosts-8.1.1-14511.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/mongo-java-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/shiro-cas-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/shiro-web-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/slf4j-ext-1.7.21.jar"/>
+	<classpathentry kind="lib" path="D:/ProgramFiles/SuperMap/8_1_1/supermap_iserver_8.1.1a_win64_zip/webapps/iserver/WEB-INF/lib/commons-utils-ugc-8.1.1-14511.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
